@@ -1,3 +1,18 @@
+### EMACS
+*~
+*.swp
+*#
+.#*
+
+
+### GERAIS
+.env
+docker-compose.yml
+db/data
+
+
+### PYTHON
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
