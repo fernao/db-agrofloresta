@@ -1,0 +1,39 @@
+{
+    "uuid": "",
+    "familia": "Poaceae",
+    "genero": "Zea",
+    "especie": "mays",
+    "nomes_populares": ["Milho"],
+    "porte": "erva média",
+    "estrato": [
+        "tipo": "emergente",
+        "periodo": [30, 150]
+    ],
+    "altura_maxima": "150",
+    "tolerancia_poda": "8",
+    "tolerancia_sombra": "7",
+    "temperatura": [5, 35],
+    "inicio_producao": "120",
+    "tempo_maturacao_frutos": "",
+    "periodo_frutificacao": "30",
+    "ciclos_producao": [
+        {
+            "nome": "milho verde",
+            "tempo": "120",
+        },
+        {
+            "nome": "milho seco",
+            "tempo": "150",
+        }
+    ],
+    "perene": "false",
+    "tempo_vida": "150",
+    "funcoes_saf": [
+        {
+            "nome": "frutos"
+        },
+    ],
+    "bioma_nativo": "",
+    "ocorrencia_natural": "América central",
+    "referencias": [],
+}

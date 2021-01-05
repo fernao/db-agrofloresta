@@ -1,0 +1,33 @@
+{
+    "uuid": "",
+    "uuid_especie": "",
+    "localizacao": {
+        "cidade": "Brasília",
+        "estado": "DF",
+        "bairro": "Lago oeste",
+        "nome_local": "sítio xyz",
+        "observador": "Fernão Lopes",
+        "data_observacao": "2020",
+    },
+    "nomes_populares": ["Milho"],
+    "necessidades_hidricas": "",
+    "exigencia_solo": "",
+    "epoca_colheita": "N/A",
+    "altura_maxima": "200",
+    "temperatura": [10, 35],
+    "inicio_producao": "100",
+    "tempo_maturacao_frutos": "100",
+    "ciclos_producao": [
+        {
+            "nome": "milho verde",
+            "tempo": "100",
+        },
+        {
+            "nome": "milho seco",
+            "tempo": "130",
+        }
+    ],
+    "periodo_frutificacao": "30",
+    "tempo_vida": "130",
+    "referencias": [],
+}
