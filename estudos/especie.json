@@ -5,10 +5,10 @@
     "especie": "mays",
     "nomes_populares": ["Milho"],
     "porte": "erva média",
-    "estrato": [
+    "estrato": {
         "tipo": "emergente",
         "periodo": [30, 150]
-    ],
+    },
     "altura_maxima": "150",
     "tolerancia_poda": "8",
     "tolerancia_sombra": "7",
